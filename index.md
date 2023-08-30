@@ -8,6 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Srushti Vaidyanathan's First CS193 Homework
+1. _We learn important supplemental content related to our core classes._
+2. _The TAs are fun and a good break from regular lecture structure._
+3. _We get a week to do assignments and its not too heavy of a work load._
+
 ```markdown
 Syntax highlighted code block
 
@@ -25,6 +30,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
